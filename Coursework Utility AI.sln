@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A2EF6E4F-1CF5-9ACE-3317-A6EEF74416F4}") = "Coursework Utility AI", "Assembly-CSharp.csproj", "{1D72A97E-B8EA-1797-26D3-983E0C041E85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D72A97E-B8EA-1797-26D3-983E0C041E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D72A97E-B8EA-1797-26D3-983E0C041E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D72A97E-B8EA-1797-26D3-983E0C041E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D72A97E-B8EA-1797-26D3-983E0C041E85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
